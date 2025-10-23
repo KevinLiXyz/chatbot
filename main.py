@@ -14,7 +14,7 @@ def print_banner():
     banner = """
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║      上海大数据中心 - 政务智能客服系统                           ║
+║      上海事业单位 - 政务智能客服系统                           ║
 ║      Government Intelligent Customer Service System          ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -37,7 +37,7 @@ def print_separator():
 def main():
     """主函数"""
     parser = argparse.ArgumentParser(
-        description="上海大数据中心政务智能客服系统"
+        description="上海事业单位政务智能客服系统"
     )
     parser.add_argument(
         "--rebuild",

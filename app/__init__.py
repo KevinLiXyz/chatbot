@@ -1,5 +1,5 @@
 """
-上海大数据中心政务智能客服应用
+上海事业单位政务智能客服应用
 Government Intelligent Customer Service Application
 """
 
